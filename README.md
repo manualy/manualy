@@ -1,7 +1,7 @@
   # Witam, nazywam się Daniel Świętuchowski #
 
 👀 Interesuję się programowaniem.\
-🌱 Aktualnie uczę się ReactJS.\
+🌱 Aktualnie uczę się ReactJS i zagłębiam się dokładniej w techniki RWD.\
 💞️ Bardzo chętnie dołączę do zespołu, który wziąłby mnie pod swoje skrzydła, tak abym mógl zostać profesjonalnym programistą :)
 
 ## Aktualnie poszukuje pracy. 
