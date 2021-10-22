@@ -1,8 +1,5 @@
   # Witam, nazywam się Daniel Świętuchowski #
 
-👀 Interesuję się programowaniem.\
-🌱 Aktualnie uczę się ReactJS i zagłębiam się dokładniej w techniki RWD.
-
 ## Junior Backend Developer w AppUnite
 
 ## 📫 Kontakt:
