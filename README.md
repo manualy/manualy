@@ -1,4 +1,4 @@
-  # Witam, nazywam się Daniel Świętuchowski #
+  # Daniel Świętuchowski #
 
 ## Software Developer w AppUnite
 
