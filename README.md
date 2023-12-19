@@ -4,8 +4,10 @@
 
 Technology stack:
 
- * ReactJS
+ * React
  * Phoenix
+ * Express
+ * Next
  * PostgreSQL
 
 ## 📫 Contact:
