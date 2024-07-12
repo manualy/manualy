@@ -1,13 +1,12 @@
 <h1 align="center">Daniel Świętuchowski</h1>
 
 <div align="center">
-<img width="400" src="https://github.com/manualy/manualy/blob/534c25c5c7bff78474d8bd02d3b485d5df108833/assets/piakchu.gif" alt="Pikachu">
+<img width="350" src="https://github.com/manualy/manualy/blob/54f939b6dbbc09008a14c81562b7159a72804c39/assets/pikachu.gif" alt="Pikachu" />
 </div>
-
 <br />
+
 <p align="center">I'm a Full-Stack Developer who loves building web apps with TypeScript. <span><br />
- Web technologies are my passion.
-</span>
+ Web technologies are my passion. </span>
 </p>
 
 ## **💻 Technology Stack**
